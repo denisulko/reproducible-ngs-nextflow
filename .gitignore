@@ -1,0 +1,22 @@
+# Python & Jupyter
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+.ipynb_checkpoints/
+.venv/
+venv/
+env/
+
+# Nextflow runtime artifacts
+.nextflow/
+.nextflow.log*
+work/
+trace.txt*
+timeline.html*
+report.html*
+dag.dot*
+
+# OS
+.DS_Store
+Thumbs.db

@@ -1,0 +1,15 @@
+{
+  "pipeline_name": "denisulko/reproducible-ngs-nextflow",
+  "dsl_version": "DSL2",
+  "total_samples": 12,
+  "qc_status_counts": {
+    "PASS": 10,
+    "WARN": 1,
+    "FAIL": 1
+  },
+  "total_tasks_executed": 49,
+  "total_core_hours": 104.0,
+  "mean_cpu_efficiency_pct": 90.43,
+  "mean_post_trim_q30_pct": 93.93,
+  "mean_mapped_pct": 98.19
+}

@@ -1,0 +1,13 @@
+sample_id,batch_id,assay_type,sex,fastq_r1,fastq_r2
+NGS_S01,BATCH_NVX_01,WES_Twist_Exome,XY,data/fastq/NGS_S01_R1_001.fastq.gz,data/fastq/NGS_S01_R2_001.fastq.gz
+NGS_S02,BATCH_NVX_02,WES_Twist_Exome,XX,data/fastq/NGS_S02_R1_001.fastq.gz,data/fastq/NGS_S02_R2_001.fastq.gz
+NGS_S03,BATCH_NVX_01,WES_Twist_Exome,XY,data/fastq/NGS_S03_R1_001.fastq.gz,data/fastq/NGS_S03_R2_001.fastq.gz
+NGS_S04,BATCH_NVX_02,WES_Twist_Exome,XX,data/fastq/NGS_S04_R1_001.fastq.gz,data/fastq/NGS_S04_R2_001.fastq.gz
+NGS_S05,BATCH_NVX_01,WES_Twist_Exome,XY,data/fastq/NGS_S05_R1_001.fastq.gz,data/fastq/NGS_S05_R2_001.fastq.gz
+NGS_S06,BATCH_NVX_02,WES_Twist_Exome,XX,data/fastq/NGS_S06_R1_001.fastq.gz,data/fastq/NGS_S06_R2_001.fastq.gz
+NGS_S07,BATCH_NVX_01,WGS_PCR_Free,XY,data/fastq/NGS_S07_R1_001.fastq.gz,data/fastq/NGS_S07_R2_001.fastq.gz
+NGS_S08,BATCH_NVX_02,WGS_PCR_Free,XX,data/fastq/NGS_S08_R1_001.fastq.gz,data/fastq/NGS_S08_R2_001.fastq.gz
+NGS_S09,BATCH_NVX_01,WGS_PCR_Free,XY,data/fastq/NGS_S09_R1_001.fastq.gz,data/fastq/NGS_S09_R2_001.fastq.gz
+NGS_S10,BATCH_NVX_02,WGS_PCR_Free,XX,data/fastq/NGS_S10_R1_001.fastq.gz,data/fastq/NGS_S10_R2_001.fastq.gz
+NGS_S11,BATCH_NVX_01,WGS_PCR_Free,XY,data/fastq/NGS_S11_R1_001.fastq.gz,data/fastq/NGS_S11_R2_001.fastq.gz
+NGS_S12,BATCH_NVX_02,WGS_PCR_Free,XX,data/fastq/NGS_S12_R1_001.fastq.gz,data/fastq/NGS_S12_R2_001.fastq.gz
